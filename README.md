@@ -21,7 +21,7 @@ You can now:
 - Have a conversation with Mr. Bear (dialogue)
   <br>
   <br>
-  ![Mr.Bear](https://github.com/MilicaKrivokapic/norsupeli-scripts/blob/main/karhetti.gif)
+  ![Mr.Bear](https://github.com/MilicaKrivokapic/norsupeli-scripts/blob/main/karhetti.gif "well bello bfren")
 
 _Mr.Bear_
 

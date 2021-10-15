@@ -23,6 +23,6 @@ You can now:
   <br>
   ![Mr.Bear](https://github.com/MilicaKrivokapic/norsupeli-scripts/blob/main/karhetti.gif)
 
-_Mr.Bear says hello_
+_Mr.Bear_
 
 I will probably leave this project as it is, since I don't have a script nor the time for this. 😄
